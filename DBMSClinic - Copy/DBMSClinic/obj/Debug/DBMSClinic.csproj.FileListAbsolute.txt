@@ -1,0 +1,50 @@
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\bin\Debug\db.mdf
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\bin\Debug\db_log.ldf
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\bin\Debug\DBMSClinic.exe.config
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\bin\Debug\DBMSClinic.exe
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\bin\Debug\DBMSClinic.pdb
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\bin\Debug\ru\DBMSClinic.resources.dll
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.csproj.AssemblyReference.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Main.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Properties.Resources.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Main.ru.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.csproj.GenerateResource.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.csproj.CoreCompileInputs.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\ru\DBMSClinic.resources.dll
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.exe
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.pdb
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddDoctor.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Tables.EditDoctor.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Reference_books.AddPatientCategory.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Reference_books.EditPatientCategory.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddPatient.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Tables.EditPatient.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddAppeal.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddTreatment.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic\DBMSClinic\obj\Debug\DBMSClinic.Tables.EditTreatment.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\bin\Debug\db.mdf
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\bin\Debug\db_log.ldf
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\bin\Debug\DBMSClinic.exe.config
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\bin\Debug\DBMSClinic.exe
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\bin\Debug\DBMSClinic.pdb
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\bin\Debug\ru\DBMSClinic.resources.dll
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.csproj.AssemblyReference.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.csproj.SuggestedBindingRedirects.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Main.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Properties.Resources.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Reference_books.AddPatientCategory.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Reference_books.EditPatientCategory.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddAppeal.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddDoctor.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddPatient.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Tables.AddTreatment.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Tables.EditDoctor.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Tables.EditPatient.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Tables.EditTreatment.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.Main.ru.resources
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.csproj.GenerateResource.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.csproj.CoreCompileInputs.cache
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\ru\DBMSClinic.resources.dll
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.exe
+C:\Users\focsit\Desktop\Course work\DBMSClinic - Copy\DBMSClinic\obj\Debug\DBMSClinic.pdb
